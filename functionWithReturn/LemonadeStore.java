@@ -1,3 +1,4 @@
+package functionWithReturn;
 public class LemonadeStore {
     // methods on objects with return value
     String productType;

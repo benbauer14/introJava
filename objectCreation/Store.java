@@ -1,3 +1,4 @@
+package objectCreation;
 public class Store {
   // Object example
   String productType;

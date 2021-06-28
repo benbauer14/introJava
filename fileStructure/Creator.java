@@ -1,3 +1,4 @@
+package fileStructure;
 public class Creator {
 	public static void main(String[] args) {
     String name = "James Gosling";
