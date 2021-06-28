@@ -1,5 +1,5 @@
 public class Store {
-  // instance fields
+  // Object example
   String productType;
   int inventoryCount;
   double inventoryPrice;
