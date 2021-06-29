@@ -8,3 +8,5 @@ This repo contains introductory Java examples.
 6) objectMethods - Various methods called on an object with different outputs
 7) Conditionals - Orderif contains ifs and nested if, Order contains Case example
 8) Arrays - Array creation, editing and counting of index
+9) ArrayList - ArrayList creation, adding, removing, editing
+10) Random Number - While loops until 5 is rolled and prints each result
