@@ -15,7 +15,9 @@ class MostExpensive {
     double mostExpensive = 0;
     
     // Iterate over expenses
+    //for each (double) expense in expenses
     for(double expense:expenses){
+        //finds most expensive
       if(expense > mostExpensive){
         mostExpensive = expense;
       }
