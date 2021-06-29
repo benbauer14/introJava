@@ -7,3 +7,4 @@ This repo contains introductory Java examples.
 5) toString - Converts returns of memory location to the value of the variable.
 6) objectMethods - Various methods called on an object with different outputs
 7) Conditionals - Orderif contains ifs and nested if, Order contains Case example
+8) Arrays - Array creation, editing and counting of index
