@@ -5,6 +5,7 @@ public class SavingsAccount{
     public double balanceEuro;
   
     //Calling a variable with keyword this references the instance variable instead of the local variable
+    //Java defaults variable identification to the local state unless this is called
 
 
     public SavingsAccount(String owner, int balanceDollar){
