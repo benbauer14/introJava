@@ -11,3 +11,4 @@ This repo contains introductory Java examples.
 9) ArrayList - ArrayList creation, adding, removing, editing
 10) Random Number - While loops until 5 is rolled and prints each result
 11) this - Explanation of this with examples using variables and methods
+12) Static and Instance Variables and methods - Examples of static and instance concepts
