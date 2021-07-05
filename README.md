@@ -14,4 +14,4 @@ This repo contains introductory Java examples.
 12) Static and Instance Variables and methods - Examples of static and instance concepts.
 
 Codewars:
-Codewars examples are added with links to the kata. 
+Codewars examples are added with links to the kata 
