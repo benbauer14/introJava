@@ -1,11 +1,13 @@
 package Variables.Static;
 
 public class ATM{
-    // Static variables
+    // Static variables are universal variables that are constant for all objects within class ATM. Any object called will return the same value.
+    //for example newATM1.numATM returns 2 and newATM2.numATM returns 2
     public static int totalMoney = 0;
     public static int numATMs = 0;
   
-    // Instance variables
+    // Instance variables are variables that can have unique values for each object. 
+    //for example newATM1.money = 1000 newATM2.money = 1500.
     public int money;
   
     public ATM(int inputMoney){
@@ -24,6 +26,7 @@ public class ATM{
     // Write your averageMoney() method here
     public static void averageMoney(){
       System.out.println(totalMoney / numATMs);
+      //this line does not work. Cannot call a non-static variable within a static method
       System.out.println(this.money);
     }
   
